@@ -1,4 +1,3 @@
 content in Branch 2 file number 1
 Added 1 line
 added 2 lines
-added 3 lines
